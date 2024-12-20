@@ -37,7 +37,7 @@ For enabling live reload during development.
 - **Java 17**
 - **Spring Boot 3.3.4**
 - **Maven**
-- **H2**
+- **MySQL** 
 - **IDE( IntelliJ IDEA )**
 
 ## Steps to Run the Application
@@ -90,3 +90,6 @@ http://localhost:8080/percentageSplit
 http://localhost:8080/balanceSheet
 ### 7. Download Balance Sheet 
 http://localhost:8080/downloadBalanceSheet
+
+### Project is live on server:- 
+https://disciplined-vision-production.up.railway.app/
